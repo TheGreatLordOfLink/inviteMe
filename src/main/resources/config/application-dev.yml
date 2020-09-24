@@ -1,0 +1,23 @@
+#开发环境配置
+#服务端接口
+server:
+  port: 8888
+
+#数据库连接:
+spring:
+  datasource:
+    dynamic: 
+      datasource: 
+        master: 
+          # MYSQL 5 驱动：com.mysql.jdbc.Driver，MYSQL 6+ 驱动：com.mysql.cj.jdbc.Driver
+          driver-class-name: com.mysql.cj.jdbc.Driver
+          username: root
+          password: root
+          url: jdbc:mysql://127.0.0.1:3306/db_inviteme?useSSL=false&useUnicode=true&characterEncoding=utf8&serverTimezone=GMT%2B8
+        slave: 
+          driver-class-name: com.mysql.cj.jdbc.Driver
+          username: root
+          password: root
+          url: jdbc:mysql://127.0.0.1:3306/db_inviteme?useSSL=false&useUnicode=true&characterEncoding=utf8&serverTimezone=GMT%2B8
+
+    

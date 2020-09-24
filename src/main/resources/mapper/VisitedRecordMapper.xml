@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.jzqm.inviteme.base.mapper.VisitedRecordMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.jzqm.inviteme.base.entity.VisitedRecord">
+        <id column="user_id" property="userId" />
+        <result column="login_date" property="loginDate" />
+        <result column="first_time" property="firstTime" />
+        <result column="last_time" property="lastTime" />
+        <result column="visited_count" property="visitedCount" />
+        <result column="page" property="page" />
+    </resultMap>
+
+    <!-- 通用查询结果列 -->
+    <sql id="Base_Column_List">
+        user_id, login_date, first_time, last_time, visited_count, page
+    </sql>
+
+</mapper>

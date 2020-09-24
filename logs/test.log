@@ -1,0 +1,20 @@
+14:58:40.020 [main] INFO  com.jzqm.inviteme.InvitemeApplicationTests - Starting InvitemeApplicationTests on USER-20200131KV with PID 2504 (started by Administrator in E:\work\workspace20200924\inviteme)
+14:58:40.029 [main] INFO  com.jzqm.inviteme.InvitemeApplicationTests - The following profiles are active: dev,database
+14:58:42.270 [main] INFO  com.baomidou.dynamic.datasource.DynamicDataSourceCreator - 动态数据源-检测到druid存在,如配置中未指定type,druid会默认配置
+14:58:42.635 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1,master} inited
+14:58:42.660 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2,slave} inited
+14:58:42.660 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 初始共加载 2 个数据源
+14:58:42.660 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 动态数据源-加载 slave 成功
+14:58:42.660 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 动态数据源-加载 master 成功
+14:58:42.660 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 当前的默认数据源是单数据源，数据源名为 master
+14:58:47.632 [main] INFO  springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+14:58:48.850 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+14:58:48.904 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+14:58:48.948 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+14:58:49.121 [main] INFO  com.jzqm.inviteme.InvitemeApplicationTests - Started InvitemeApplicationTests in 9.629 seconds (JVM running for 12.52)
+14:58:49.124 [main] INFO  com.jzqm.inviteme.common.runner.BaseApplicationRunner - 服务-> [inviteme] 启动完毕
+14:58:49.837 [SpringContextShutdownHook] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - closing dynamicDatasource  ing....
+14:58:49.848 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closing ...
+14:58:49.884 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closed
+14:58:49.884 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+14:58:49.888 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed

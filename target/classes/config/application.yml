@@ -1,0 +1,26 @@
+#当前使用配置
+spring:
+  application:
+    name: inviteme
+  profiles:
+    active: dev,database
+
+  #redis连接
+  redis:
+    database: 5
+    host: 127.0.0.1
+    port: 6379
+    password: 692bas85ae21v
+
+#引入log4j2配置
+logging:
+  config: classpath:config/log4j2-spring.xml
+  level:
+    cn.jay.repository: trace
+
+# OSS相关配置信息
+aliyun:
+  sms:
+    regionId: cn-hangzhou
+    accessKeyId: LTAI4GHGQdjmrGkGnmEQifb9
+    accessKeySecret: ocbMzZXRE6WBD4DZzEF8AA123HwZRh

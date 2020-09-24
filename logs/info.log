@@ -1,0 +1,200 @@
+23:06:26.925 [main] INFO  com.jzqm.inviteme.InviteMeApplication - Starting InviteMeApplication on zhaojianbo-PC with PID 12384 (E:\Workspace\Java\inviteme\target\classes started by zhaojianbo in E:\Workspace\Java\inviteme)
+23:06:26.941 [main] INFO  com.jzqm.inviteme.InviteMeApplication - The following profiles are active: dev,database
+23:06:28.847 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+23:06:28.848 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+23:06:28.848 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+23:06:28.950 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+23:06:29.179 [main] INFO  com.baomidou.dynamic.datasource.DynamicDataSourceCreator - 动态数据源-检测到druid存在,如配置中未指定type,druid会默认配置
+23:06:29.398 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1,master} inited
+23:06:29.434 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2,slave} inited
+23:06:29.435 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 初始共加载 2 个数据源
+23:06:29.435 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 动态数据源-加载 slave 成功
+23:06:29.435 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 动态数据源-加载 master 成功
+23:06:29.436 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 当前的默认数据源是单数据源，数据源名为 master
+23:06:30.417 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - closing dynamicDatasource  ing....
+23:06:30.429 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closing ...
+23:06:30.439 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closed
+23:06:30.439 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+23:06:30.444 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+23:06:30.450 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+23:08:54.460 [main] INFO  com.jzqm.inviteme.InviteMeApplication - Starting InviteMeApplication on zhaojianbo-PC with PID 8868 (E:\Workspace\Java\inviteme\target\classes started by zhaojianbo in E:\Workspace\Java\inviteme)
+23:08:54.479 [main] INFO  com.jzqm.inviteme.InviteMeApplication - The following profiles are active: dev,database
+23:08:56.242 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+23:08:56.243 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+23:08:56.243 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+23:08:56.353 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+23:08:56.563 [main] INFO  com.baomidou.dynamic.datasource.DynamicDataSourceCreator - 动态数据源-检测到druid存在,如配置中未指定type,druid会默认配置
+23:08:56.771 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1,master} inited
+23:08:56.818 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2,slave} inited
+23:08:56.818 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 初始共加载 2 个数据源
+23:08:56.819 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 动态数据源-加载 slave 成功
+23:08:56.819 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 动态数据源-加载 master 成功
+23:08:56.819 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 当前的默认数据源是单数据源，数据源名为 master
+23:08:58.065 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - closing dynamicDatasource  ing....
+23:08:58.068 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closing ...
+23:08:58.077 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closed
+23:08:58.078 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+23:08:58.082 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+23:08:58.087 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+23:14:22.569 [main] INFO  com.jzqm.inviteme.InviteMeApplication - Starting InviteMeApplication on zhaojianbo-PC with PID 12480 (E:\Workspace\Java\inviteme\target\classes started by zhaojianbo in E:\Workspace\Java\inviteme)
+23:14:22.591 [main] INFO  com.jzqm.inviteme.InviteMeApplication - The following profiles are active: dev,database
+23:14:24.561 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+23:14:24.561 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+23:14:24.562 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+23:14:24.684 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+23:14:24.946 [main] INFO  com.baomidou.dynamic.datasource.DynamicDataSourceCreator - 动态数据源-检测到druid存在,如配置中未指定type,druid会默认配置
+23:14:25.215 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1,master} inited
+23:14:25.245 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2,slave} inited
+23:14:25.246 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 初始共加载 2 个数据源
+23:14:25.246 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 动态数据源-加载 slave 成功
+23:14:25.246 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 动态数据源-加载 master 成功
+23:14:25.246 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 当前的默认数据源是单数据源，数据源名为 master
+23:14:26.417 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - closing dynamicDatasource  ing....
+23:14:26.421 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closing ...
+23:14:26.428 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closed
+23:14:26.429 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+23:14:26.434 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+23:14:26.438 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+23:15:39.249 [main] INFO  com.jzqm.inviteme.InviteMeApplication - Starting InviteMeApplication on zhaojianbo-PC with PID 12968 (E:\Workspace\Java\inviteme\target\classes started by zhaojianbo in E:\Workspace\Java\inviteme)
+23:15:39.257 [main] INFO  com.jzqm.inviteme.InviteMeApplication - The following profiles are active: dev,database
+23:15:40.984 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+23:15:40.985 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+23:15:40.986 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+23:15:41.096 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+23:15:41.311 [main] INFO  com.baomidou.dynamic.datasource.DynamicDataSourceCreator - 动态数据源-检测到druid存在,如配置中未指定type,druid会默认配置
+23:15:41.516 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1,master} inited
+23:15:41.552 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2,slave} inited
+23:15:41.552 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 初始共加载 2 个数据源
+23:15:41.553 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 动态数据源-加载 slave 成功
+23:15:41.553 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 动态数据源-加载 master 成功
+23:15:41.553 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 当前的默认数据源是单数据源，数据源名为 master
+23:15:42.638 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - closing dynamicDatasource  ing....
+23:15:42.641 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closing ...
+23:15:42.649 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closed
+23:15:42.649 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+23:15:42.654 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+23:15:42.657 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+23:16:46.098 [main] INFO  com.jzqm.inviteme.InviteMeApplication - Starting InviteMeApplication on zhaojianbo-PC with PID 11900 (E:\Workspace\Java\inviteme\target\classes started by zhaojianbo in E:\Workspace\Java\inviteme)
+23:16:46.106 [main] INFO  com.jzqm.inviteme.InviteMeApplication - The following profiles are active: dev,database
+23:16:48.037 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+23:16:48.038 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+23:16:48.039 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+23:16:48.133 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+23:16:48.356 [main] INFO  com.baomidou.dynamic.datasource.DynamicDataSourceCreator - 动态数据源-检测到druid存在,如配置中未指定type,druid会默认配置
+23:16:48.568 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1,master} inited
+23:16:48.611 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2,slave} inited
+23:16:48.612 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 初始共加载 2 个数据源
+23:16:48.612 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 动态数据源-加载 slave 成功
+23:16:48.612 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 动态数据源-加载 master 成功
+23:16:48.612 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 当前的默认数据源是单数据源，数据源名为 master
+23:16:49.641 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - closing dynamicDatasource  ing....
+23:16:49.644 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closing ...
+23:16:49.654 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closed
+23:16:49.654 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+23:16:49.659 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+23:16:49.662 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+23:21:13.572 [main] INFO  com.jzqm.inviteme.InviteMeApplication - Starting InviteMeApplication on zhaojianbo-PC with PID 10316 (E:\Workspace\Java\inviteme\target\classes started by zhaojianbo in E:\Workspace\Java\inviteme)
+23:21:13.579 [main] INFO  com.jzqm.inviteme.InviteMeApplication - The following profiles are active: dev,database
+23:21:15.287 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+23:21:15.288 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+23:21:15.288 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+23:21:15.391 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+23:21:15.604 [main] INFO  com.baomidou.dynamic.datasource.DynamicDataSourceCreator - 动态数据源-检测到druid存在,如配置中未指定type,druid会默认配置
+23:21:15.810 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1,master} inited
+23:21:15.847 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2,slave} inited
+23:21:15.848 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 初始共加载 2 个数据源
+23:21:15.848 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 动态数据源-加载 slave 成功
+23:21:15.848 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 动态数据源-加载 master 成功
+23:21:15.849 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 当前的默认数据源是单数据源，数据源名为 master
+23:21:16.917 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - closing dynamicDatasource  ing....
+23:21:16.921 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closing ...
+23:21:16.930 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closed
+23:21:16.930 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+23:21:16.935 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+23:21:16.939 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+23:22:03.790 [main] INFO  com.jzqm.inviteme.InviteMeApplication - Starting InviteMeApplication on zhaojianbo-PC with PID 8380 (E:\Workspace\Java\inviteme\target\classes started by zhaojianbo in E:\Workspace\Java\inviteme)
+23:22:03.797 [main] INFO  com.jzqm.inviteme.InviteMeApplication - The following profiles are active: dev,database
+23:22:05.548 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+23:22:05.549 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+23:22:05.549 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+23:22:05.644 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+23:22:05.854 [main] INFO  com.baomidou.dynamic.datasource.DynamicDataSourceCreator - 动态数据源-检测到druid存在,如配置中未指定type,druid会默认配置
+23:22:06.064 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1,master} inited
+23:22:06.103 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2,slave} inited
+23:22:06.103 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 初始共加载 2 个数据源
+23:22:06.104 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 动态数据源-加载 slave 成功
+23:22:06.104 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 动态数据源-加载 master 成功
+23:22:06.104 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 当前的默认数据源是单数据源，数据源名为 master
+23:22:07.810 [main] INFO  springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+23:22:08.230 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+23:22:08.264 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+23:22:08.282 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+23:22:08.308 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+23:22:08.465 [main] INFO  com.jzqm.inviteme.InviteMeApplication - Started InviteMeApplication in 5.178 seconds (JVM running for 6.095)
+23:22:08.467 [main] INFO  com.jzqm.inviteme.common.runner.BaseApplicationRunner - 服务-> [inviteme] 启动完毕
+23:22:13.645 [http-nio-8888-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+23:25:22.805 [RMI TCP Connection(7)-127.0.0.1] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - closing dynamicDatasource  ing....
+23:25:22.810 [RMI TCP Connection(7)-127.0.0.1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closing ...
+23:25:22.824 [RMI TCP Connection(7)-127.0.0.1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closed
+23:25:22.824 [RMI TCP Connection(7)-127.0.0.1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+23:25:22.833 [RMI TCP Connection(7)-127.0.0.1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+14:21:06.651 [main] INFO  com.jzqm.inviteme.InviteMeApplication - Starting InviteMeApplication on USER-20200131KV with PID 8980 (E:\work\workspace20200924\inviteme\target\classes started by Administrator in E:\work\workspace20200924\inviteme)
+14:21:06.697 [main] INFO  com.jzqm.inviteme.InviteMeApplication - The following profiles are active: dev,database
+14:21:10.334 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+14:21:10.334 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+14:21:10.334 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+14:21:10.906 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+14:21:11.203 [main] INFO  com.baomidou.dynamic.datasource.DynamicDataSourceCreator - 动态数据源-检测到druid存在,如配置中未指定type,druid会默认配置
+14:21:11.547 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1,master} inited
+14:21:11.563 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2,slave} inited
+14:21:11.563 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 初始共加载 2 个数据源
+14:21:11.563 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 动态数据源-加载 slave 成功
+14:21:11.563 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 动态数据源-加载 master 成功
+14:21:11.563 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 当前的默认数据源是单数据源，数据源名为 master
+14:21:15.721 [main] INFO  springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+14:21:16.365 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+14:21:16.380 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+14:21:16.396 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+14:21:16.427 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+14:21:16.612 [main] INFO  com.jzqm.inviteme.InviteMeApplication - Started InviteMeApplication in 13.019 seconds (JVM running for 16.654)
+14:21:16.612 [main] INFO  com.jzqm.inviteme.common.runner.BaseApplicationRunner - 服务-> [inviteme] 启动完毕
+14:53:48.005 [main] INFO  com.jzqm.inviteme.InviteMeApplication - Starting InviteMeApplication on USER-20200131KV with PID 8172 (E:\work\workspace20200924\inviteme\target\classes started by Administrator in E:\work\workspace20200924\inviteme)
+14:53:48.014 [main] INFO  com.jzqm.inviteme.InviteMeApplication - The following profiles are active: dev,database
+14:53:50.467 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+14:53:50.468 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+14:53:50.468 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+14:53:50.882 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+14:53:51.312 [main] INFO  com.baomidou.dynamic.datasource.DynamicDataSourceCreator - 动态数据源-检测到druid存在,如配置中未指定type,druid会默认配置
+14:53:51.624 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1,master} inited
+14:53:51.645 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2,slave} inited
+14:53:51.645 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 初始共加载 2 个数据源
+14:53:51.645 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 动态数据源-加载 slave 成功
+14:53:51.645 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 动态数据源-加载 master 成功
+14:53:51.645 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - 当前的默认数据源是单数据源，数据源名为 master
+14:53:54.699 [main] INFO  springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+14:53:55.129 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+14:53:55.301 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+14:53:55.357 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+14:53:55.389 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+14:53:55.533 [main] INFO  com.jzqm.inviteme.InviteMeApplication - Started InviteMeApplication in 8.721 seconds (JVM running for 13.009)
+14:53:55.535 [main] INFO  com.jzqm.inviteme.common.runner.BaseApplicationRunner - 服务-> [inviteme] 启动完毕
+14:58:40.020 [main] INFO  com.jzqm.inviteme.InvitemeApplicationTests - Starting InvitemeApplicationTests on USER-20200131KV with PID 2504 (started by Administrator in E:\work\workspace20200924\inviteme)
+14:58:40.029 [main] INFO  com.jzqm.inviteme.InvitemeApplicationTests - The following profiles are active: dev,database
+14:58:42.270 [main] INFO  com.baomidou.dynamic.datasource.DynamicDataSourceCreator - ��̬����Դ-��⵽druid����,��������δָ��type,druid��Ĭ������
+14:58:42.635 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1,master} inited
+14:58:42.660 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2,slave} inited
+14:58:42.660 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - ��ʼ������ 2 ������Դ
+14:58:42.660 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - ��̬����Դ-���� slave �ɹ�
+14:58:42.660 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - ��̬����Դ-���� master �ɹ�
+14:58:42.660 [main] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - ��ǰ��Ĭ������Դ�ǵ�����Դ������Դ��Ϊ master
+14:58:47.632 [main] INFO  springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+14:58:48.850 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+14:58:48.904 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+14:58:48.948 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+14:58:49.121 [main] INFO  com.jzqm.inviteme.InvitemeApplicationTests - Started InvitemeApplicationTests in 9.629 seconds (JVM running for 12.52)
+14:58:49.124 [main] INFO  com.jzqm.inviteme.common.runner.BaseApplicationRunner - ����-> [inviteme] �������
+14:58:49.837 [SpringContextShutdownHook] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - closing dynamicDatasource  ing....
+14:58:49.848 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closing ...
+14:58:49.884 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closed
+14:58:49.884 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+14:58:49.888 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed

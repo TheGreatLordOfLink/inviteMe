@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.jzqm.inviteme.base.mapper.UserMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.jzqm.inviteme.base.entity.User">
+        <id column="id" property="id" />
+        <result column="username" property="username" />
+        <result column="name" property="name" />
+        <result column="nickname" property="nickname" />
+        <result column="password" property="password" />
+        <result column="born_date" property="bornDate" />
+        <result column="sex" property="sex" />
+        <result column="phone" property="phone" />
+        <result column="email" property="email" />
+        <result column="province" property="province" />
+        <result column="city" property="city" />
+        <result column="address" property="address" />
+        <result column="posx" property="posx" />
+        <result column="posy" property="posy" />
+        <result column="work" property="work" />
+        <result column="education" property="education" />
+        <result column="major" property="major" />
+        <result column="work_time" property="workTime" />
+        <result column="last_login_time" property="lastLoginTime" />
+        <result column="create_time" property="createTime" />
+        <result column="score" property="score" />
+        <result column="role_id" property="roleId" />
+        <result column="pre_score" property="preScore" />
+        <result column="total_score" property="totalScore" />
+        <result column="is_notic" property="isNotic" />
+        <result column="state" property="state" />
+        <result column="inviter_id" property="inviterId" />
+        <result column="label" property="label" />
+        <result column="price" property="price" />
+        <result column="discribe" property="discribe" />
+        <result column="from_img_path" property="fromImgPath" />
+        <result column="back_img_path" property="backImgPath" />
+        <result column="header_img_path" property="headerImgPath" />
+    </resultMap>
+
+    <!-- 通用查询结果列 -->
+    <sql id="Base_Column_List">
+        id, username, name, nickname, password, born_date, sex, phone, email, province, city, address, posx, posy, work, education, major, work_time, last_login_time, create_time, score, role_id, pre_score, total_score, is_notic, state, inviter_id, label, price, discribe, from_img_path, back_img_path, header_img_path
+    </sql>
+
+</mapper>

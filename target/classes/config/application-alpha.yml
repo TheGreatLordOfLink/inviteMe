@@ -1,0 +1,21 @@
+#测试环境配置
+#服务端接口
+server:
+  port: 80
+
+#数据库连接:
+spring:
+  datasource:
+    dynamic:
+      datasource:
+        master:
+          # MYSQL 5 驱动：com.mysql.jdbc.Driver，MYSQL 6+ 驱动：com.mysql.cj.jdbc.Driver
+          driver-class-name: com.mysql.cj.jdbc.Driver
+          username: yysh
+          password: 123456
+          url: jdbc:mysql://39.99.34.223:3306/db_house_sell_tools?useSSL=false&useUnicode=true&characterEncoding=utf8&serverTimezone=UTC
+        slave:
+          driver-class-name: com.mysql.cj.jdbc.Driver
+          username: yysh
+          password: 123456
+          url: jdbc:mysql://39.99.34.223:3306/db_house_sell_tools?useSSL=false&useUnicode=true&characterEncoding=utf8&serverTimezone=UTC
